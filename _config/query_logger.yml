@@ -1,0 +1,8 @@
+---
+Name: 'query_logger'
+After: 'framework/*'
+---
+
+Injector:
+  MySQLDatabase:
+    class: LoggingMySQLDatabase

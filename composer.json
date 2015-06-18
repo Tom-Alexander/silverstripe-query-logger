@@ -1,0 +1,14 @@
+{
+    "name": "Tom-Alexander/silverstripe-query-debug",
+    "authors": [
+        {
+            "name": "Tom Alexander",
+            "email": "me@tomalexander.co.nz"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2",
+        "monolog/monolog": "^1.13",
+        "soundintheory/php-sql-parser": "^1.0"
+    }
+}
